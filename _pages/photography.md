@@ -8,4 +8,4 @@ layout: page
 permalink: http://sameasiteverwas.net/wordpress/
 published: true
 ---
-[et_pb_section fullwidth="on" specialty="off"][et_pb_fullwidth_portfolio admin_label="Fullwidth Portfolio" fullwidth="off" show_title="on" show_date="off" background_layout="light" auto="off" include_categories="13" /][/et_pb_section]
+[et_pb_section admin_label="section" fullwidth="on" specialty="off"][et_pb_fullwidth_code admin_label="Fullwidth Code"][envira-album slug="photo-album"][/et_pb_fullwidth_code][/et_pb_section]
